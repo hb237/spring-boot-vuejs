@@ -1,4 +1,4 @@
-# spring-boot-vuejs
+https://github.com/jonashackt/spring-boot-vuejs#first-app-run# spring-boot-vuejs
 
 [![Build Status](https://travis-ci.org/jonashackt/spring-boot-vuejs.svg?branch=master)](https://travis-ci.org/jonashackt/spring-boot-vuejs)
 [![Coverage Status](https://coveralls.io/repos/github/jonashackt/spring-boot-vuejs/badge.svg?branch=master)](https://coveralls.io/github/jonashackt/spring-boot-vuejs?branch=master)
@@ -36,7 +36,7 @@ This project is used as example in a variety of articles & as eBook:
 * [Backend](#backend)
 * [Frontend](#frontend)
   * [Use frontend-maven-plugin to handle NPM, Node, Bower, Grunt, Gulp, Webpack and so on :)](#use-frontend-maven-plugin-to-handle-npm-node-bower-grunt-gulp-webpack-and-so-on-)
-* [First App run](first-app-run)
+* [First App run](#first-app-run)
 * [Faster feedback with webpack-dev-server](#faster-feedback-with-webpack-dev-server)
 * [Browser developer tools extension](#browser-developer-tools-extension)
 * [HTTP calls from Vue.js to (Spring Boot) REST backend](#http-calls-from-vuejs-to-spring-boot-rest-backend)
